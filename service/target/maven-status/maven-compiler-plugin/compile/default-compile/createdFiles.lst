@@ -1,0 +1,6 @@
+command\AddWrite.class
+command\ShowAllNews.class
+command\ShowOneNews.class
+command\ShowCommand.class
+command\AddCommand.class
+command\Command.class

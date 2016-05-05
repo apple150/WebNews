@@ -1,0 +1,10 @@
+dao\NewsDao.class
+util\Options.class
+util\DBConnection.class
+dao\NewsDaoImpl.class
+dao\GeneralDao.class
+dao\Dao.class
+util\DBConnectionManager.class
+dao\MyDao.class
+pojos\User.class
+pojos\News.class
